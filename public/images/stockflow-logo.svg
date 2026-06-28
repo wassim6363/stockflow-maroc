@@ -1,0 +1,7 @@
+<svg width="240" height="74" viewBox="0 0 240 74" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M29 10.5 52 23.6v26.8L29 63.5 6 50.4V23.6L29 10.5Z" stroke="#0B63F6" stroke-width="4" stroke-linejoin="round"/>
+  <path d="m6 23.7 23 13.1 23-13.1M29 36.8v26.6" stroke="#0B63F6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m18.5 17.2 23 13.1M17.8 46.7l11.1 6.3 11.4-6.5" stroke="#0B63F6" stroke-width="4" stroke-linecap="round"/>
+  <text x="67" y="38" font-family="Inter, Arial, Helvetica, sans-serif" font-size="31" font-weight="800" letter-spacing="-.4" fill="#07143D">StockFlow</text>
+  <text x="69" y="59" font-family="Inter, Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#0B63F6">Maroc</text>
+</svg>
